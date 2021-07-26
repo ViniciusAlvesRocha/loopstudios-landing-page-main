@@ -1,0 +1,97 @@
+@media all and (orientation: landscape) {
+
+  .btn-see-all {
+    display: none;
+  }
+
+  .btn-see-all-desktop {
+    margin-right: 10px;
+    font-family: 'Alata';
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border: solid 1.5px rgb(0, 0, 0);
+    padding: 10px 60px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 17px;
+  }
+
+  .our-creations {
+    text-transform: uppercase;
+    text-align: left;
+    font-family: 'Josefin Sans';
+    font-weight: 400;
+    font-size: 38px;
+    margin-left: 10px;
+  }
+
+  .section-creations {
+    position: relative;
+    top: -100px;
+  }
+
+  .container-creations {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: rgb(255, 255, 255)
+  }
+
+  .section-creations > div {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+  }
+
+  .item-creation div{
+    width: 50%;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    text-transform: uppercase;
+  }
+
+  .item-creation {
+    font-size: 25px;
+    font-weight: 300;
+    background-size: 100% 300px;
+    height: 300px;
+    width: 23%;
+    margin: 10px 10px;
+    background-repeat: no-repeat;
+    box-shadow: inset 0 0 700px black;
+    display: flex;
+    align-items: flex-end;
+  }
+
+  .deep-earth {
+    background-image: url('../../images/desktop/image-deep-earth.jpg');
+  }
+
+  .night-arcade {
+    background-image: url('../../images/desktop/image-night-arcade.jpg');
+  }
+
+  .soccer-team-vr {
+    background-image: url('../../images/desktop/image-soccer-team.jpg')
+  }
+
+  .the-grid {
+    background-image: url('../../images/desktop/image-grid.jpg');
+  }
+
+  .from-up-above-vr {
+    background-image: url('../../images/desktop/image-from-above.jpg');
+  }
+
+  .pocket-borealis {
+    background-image: url('../../images/desktop/image-pocket-borealis.jpg');
+  }
+
+  .the-curiosity {
+    background-image: url('../../images/desktop/image-curiosity.jpg');
+  }
+
+  .make-it-fisheye {
+    background-image: url('../../images/desktop/image-fisheye.jpg');
+  }
+}
