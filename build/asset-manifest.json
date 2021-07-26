@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b8174910.chunk.css",
+    "main.js": "./static/js/main.bd7f4824.chunk.js",
+    "main.js.map": "./static/js/main.bd7f4824.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ed48cffb.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ed48cffb.js.map",
+    "static/js/2.d00d8daf.chunk.js": "./static/js/2.d00d8daf.chunk.js",
+    "static/js/2.d00d8daf.chunk.js.map": "./static/js/2.d00d8daf.chunk.js.map",
+    "static/js/3.672c2c34.chunk.js": "./static/js/3.672c2c34.chunk.js",
+    "static/js/3.672c2c34.chunk.js.map": "./static/js/3.672c2c34.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.b8174910.chunk.css.map": "./static/css/main.b8174910.chunk.css.map",
+    "static/js/2.d00d8daf.chunk.js.LICENSE.txt": "./static/js/2.d00d8daf.chunk.js.LICENSE.txt",
+    "static/media/icon-close.bbbbb006.svg": "./static/media/icon-close.bbbbb006.svg",
+    "static/media/icon-facebook.e9773e52.svg": "./static/media/icon-facebook.e9773e52.svg",
+    "static/media/icon-hamburger.5153cb80.svg": "./static/media/icon-hamburger.5153cb80.svg",
+    "static/media/icon-instagram.8d0df555.svg": "./static/media/icon-instagram.8d0df555.svg",
+    "static/media/icon-pinterest.61a35844.svg": "./static/media/icon-pinterest.61a35844.svg",
+    "static/media/icon-twitter.5dc7711f.svg": "./static/media/icon-twitter.5dc7711f.svg",
+    "static/media/creations-style-desktop.css": "./static/media/image-soccer-team.24ac0872.jpg",
+    "static/media/creations-style-mobile.css": "./static/media/image-soccer-team.18a63d8d.jpg",
+    "static/media/App.css": "./static/media/image-hero.9b5aacea.jpg",
+    "static/media/image-interactive.1d330522.jpg": "./static/media/image-interactive.1d330522.jpg",
+    "static/media/image-interactive.d6a3949b.jpg": "./static/media/image-interactive.d6a3949b.jpg",
+    "static/media/logo.5b4e652a.svg": "./static/media/logo.5b4e652a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed48cffb.js",
+    "static/js/2.d00d8daf.chunk.js",
+    "static/css/main.b8174910.chunk.css",
+    "static/js/main.bd7f4824.chunk.js"
+  ]
+}
