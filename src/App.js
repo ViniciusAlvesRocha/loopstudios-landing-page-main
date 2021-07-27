@@ -50,7 +50,7 @@ function App() {
       </div>
       <Leader />
       <Creations />
-      <Footer />
+      <Footer /> 
     </>
   );
 }
