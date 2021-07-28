@@ -12,7 +12,7 @@ function App() {
 
   return (
     <>
-      <div className="main-image container">
+      <div className="main-image">
         <header>
           <img src={ logo } alt="logo Loopstudios" />
           <span onClick={ () => setIsChecked(!isChecked) }>

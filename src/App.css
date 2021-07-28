@@ -26,11 +26,11 @@ ul {
   }
 
   header {
-    /* background-color: red; */
     height: 100px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 0 7%;
   }
 
   header > span {
@@ -70,6 +70,7 @@ ul {
   }
 
   .main-text {
+    margin-left: 7%;
     width: 50%;
     color: rgb(255, 255, 255);
     font-family: 'Josefin Sans';
@@ -114,6 +115,9 @@ ul {
   .main-image {
     background-image: url('./images/mobile/image-hero.jpg');
     height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
   }
 
   .container {
@@ -121,22 +125,23 @@ ul {
   }
 
   header {
+    padding: 0 7%;
     height: 80px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    /* background: red;  */
+    align-items: center; 
   }
 
   .main-text {
-    width: 86%;
+    width: 63%;
     color: rgb(255, 255, 255);
     font-family: 'Josefin Sans';
-    font-size: 40px;
+    font-size: 35px;
     text-transform: uppercase;
     border: solid rgb(255, 255, 255) 3px;
     margin-top: 160px;
-    padding: 20px 7%;
+    padding: 20px 15% 20px 7%;
+    margin: 25vh 7% 0 7%;
   }
 
   .hiden-menu-mobile {
